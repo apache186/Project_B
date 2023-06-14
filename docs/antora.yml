@@ -1,0 +1,5 @@
+name: project-b
+title: Project B
+version: 2.5
+nav:
+- modules/ROOT/nav.adoc
